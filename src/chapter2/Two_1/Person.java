@@ -1,6 +1,7 @@
 package chapter2.Two_1;
 
 public class Person {
+     //TODO: 객체와 클래스
         // 1. 속성
         String name;
         int age;
