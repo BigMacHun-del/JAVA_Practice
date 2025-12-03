@@ -1,7 +1,7 @@
 package chapter1;
 import java.util.Scanner;
 
-public class One6 {
+public class One_6 {
     public static void main(String[] args) {
         //TODO: 연산자 정리
         //전위 후위
