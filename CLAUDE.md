@@ -48,7 +48,7 @@ javac -d out/production/java_practice src/Main.java
 java -cp out/production/java_practice Main
 
 # 특정 챕터의 클래스 실행
-java -cp out/production/java_practice chapter1.One6
+java -cp out/production/java_practice chapter1.One_6
 ```
 
 ## 새로운 학습 예제 추가하기
