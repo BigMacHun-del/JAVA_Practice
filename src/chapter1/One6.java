@@ -23,9 +23,6 @@ public class One6 {
         //문자열 비교
         string_test();
 
-
-
-
     }
 
     //전위 후위 연산자
